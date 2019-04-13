@@ -4,8 +4,9 @@
 
 ## 技术
 
-1. 👍《Spring 微服务实战》 By [美]约翰·卡内尔（John Carnell），2019年3月
-2. 👍👍《黑客与画家 : 硅谷创业之父Paul Graham文集》 By [美] Paul Graham，2019年2月
+1. 《Java核心技术·卷 I（原书第10版）》By [美] 凯.S.霍斯特曼（Cay S. Horstmann），2019年4月
+2. 👍《Spring 微服务实战》 By [美]约翰·卡内尔（John Carnell），2019年3月
+3. 👍👍《黑客与画家 : 硅谷创业之父Paul Graham文集》 By [美] Paul Graham，2019年2月
 4. 《Docker — 从入门到实践》 By Baohua Yang，2019年2月
 5. ❌《Spring Cloud微服务实战》 By 翟永超 ，2018年10月
 6. ❌《Spring Boot实战》 By [美]克雷格·沃斯，2018年10月
