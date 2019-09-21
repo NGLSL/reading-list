@@ -4,22 +4,23 @@
 
 ## 互联网
 
-1. 《码农翻身》 By 刘欣 ， 2019年9月
-2. 《Java多线程编程实战指南（核心篇）》 By 黄文海 ， 2019年8月
-3. 《硅谷之谜》 By 吴军 ， 2019年8月
-4. 《浪潮之巅第三版-下册》 By 吴军 ，2019年8月
-5. 👍《浪潮之巅第三版-上册》 By 吴军 ，2019年7月
-6. 👍《图解HTTP》 By [日] 上野宣 ，2019年5月
-7. 《Redis 深度历险：核心原理与应用实践-掘金小册》 By 老钱 ，2019年5月 
-8. 《Redis实战》 By Josiah L. Carlson ，2019年4月
-9. 《Java核心技术·卷 I（原书第10版）》By [美] 凯.S.霍斯特曼（Cay S. Horstmann），2019年4月
-10. 👍《Spring 微服务实战》 By [美]约翰·卡内尔（John Carnell），2019年3月
-11. 👍👍《黑客与画家 : 硅谷创业之父Paul Graham文集》 By [美] Paul Graham ，2019年2月
-12. 《Docker — 从入门到实践》 By Baohua Yang ，2019年2月
-12. ❌《Spring Cloud微服务实战》 By 翟永超 ，2018年10月
-14. ❌《Spring Boot实战》 By [美]克雷格·沃斯 ，2018年10月
-15. 《在线》 By 王坚 ，2018年9月
-16. 👍 《Java8 实战》 By 厄马(Raoul-Gabriel Urma) / 弗斯科(Mario Fusco) / 米克罗夫特(Alan Mycroft) ，2018年8月
+1. 《Effective java 中文版（第2版）》 By [美] Joshua Bloch ，2019年9月
+2. 《码农翻身》 By 刘欣 ， 2019年9月
+3. 《Java多线程编程实战指南（核心篇）》 By 黄文海 ， 2019年8月
+4. 《硅谷之谜》 By 吴军 ， 2019年8月
+5. 《浪潮之巅第三版-下册》 By 吴军 ，2019年8月
+6. 👍《浪潮之巅第三版-上册》 By 吴军 ，2019年7月
+7. 👍《图解HTTP》 By [日] 上野宣 ，2019年5月
+8. 《Redis 深度历险：核心原理与应用实践-掘金小册》 By 老钱 ，2019年5月 
+9. 《Redis实战》 By Josiah L. Carlson ，2019年4月
+10. 《Java核心技术·卷 I（原书第10版）》By [美] 凯.S.霍斯特曼（Cay S. Horstmann），2019年4月
+11. 👍《Spring 微服务实战》 By [美]约翰·卡内尔（John Carnell），2019年3月
+12. 👍👍《黑客与画家 : 硅谷创业之父Paul Graham文集》 By [美] Paul Graham ，2019年2月
+13. 《Docker — 从入门到实践》 By Baohua Yang ，2019年2月
+14. ❌《Spring Cloud微服务实战》 By 翟永超 ，2018年10月
+15. ❌《Spring Boot实战》 By [美]克雷格·沃斯 ，2018年10月
+16. 《在线》 By 王坚 ，2018年9月
+17. 👍 《Java8 实战》 By 厄马(Raoul-Gabriel Urma) / 弗斯科(Mario Fusco) / 米克罗夫特(Alan Mycroft) ，2018年8月
 
 ## 文学
 
