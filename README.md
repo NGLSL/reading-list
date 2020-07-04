@@ -4,27 +4,28 @@
 
 ## 计算机&互联网&技术
 
-1. 👍《Java并发编程实践》 By 戈茨 ， 2020年4月
-2. 《软技能——代码之外的生存指南》 By John Sonmez ， 2019年11月
-3. 《鸟哥Linux的私房菜——基础学习篇第三版》 By 鸟哥 ， 2019年10月
-4. 《Effective java 中文版（第2版）》 By [美] Joshua Bloch ，2019年9月
-5. 《码农翻身》 By 刘欣 ，2019年9月
-6. 《Java多线程编程实战指南（核心篇）》 By 黄文海 ，2019年8月
-7. 《硅谷之谜》 By 吴军 ，2019年8月
-8. 《浪潮之巅第三版-下册》 By 吴军 ，2019年8月
-9. 👍《浪潮之巅第三版-上册》 By 吴军 ，2019年7月
-10. 👍《图解HTTP》 By [日] 上野宣 ，2019年5月
-11. 《Redis 深度历险：核心原理与应用实践——掘金小册》 By 老钱 ，2019年5月 
-12. 《Redis实战》 By Josiah L. Carlson ，2019年4月
-13. 《Java核心技术·卷 I（原书第10版）》By [美] 凯.S.霍斯特曼（Cay S. Horstmann），2019年4月
-14. 👍《Spring 微服务实战》 By [美]约翰·卡内尔（John Carnell），2019年3月
-15. 👍👍《黑客与画家 : 硅谷创业之父Paul Graham文集》 By [美] Paul Graham ，2019年2月
-16. 《Docker — 从入门到实践》 By Baohua Yang ，2019年2月
-17. 《Git 原理详解及实用指南——掘金小册》 By 扔物线 ， 2019年2月
-18. ❌《Spring Cloud微服务实战》 By 翟永超 ，2018年10月
-19. ❌《Spring Boot实战》 By [美]克雷格·沃斯 ，2018年10月
-20. 《在线》 By 王坚 ，2018年9月
-21. 《Java8 实战》 By 厄马(Raoul-Gabriel Urma) / 弗斯科(Mario Fusco) / 米克罗夫特(Alan Mycroft) ，2018年8月
+1. 《Head First 设计模式》 By [美] 弗里曼 ， 2020年7月
+2. 👍《Java并发编程实践》 By 戈茨 ， 2020年4月
+3. 《软技能——代码之外的生存指南》 By John Sonmez ， 2019年11月
+4. 《鸟哥Linux的私房菜——基础学习篇第三版》 By 鸟哥 ， 2019年10月
+5. 《Effective java 中文版（第2版）》 By [美] Joshua Bloch ，2019年9月
+6. 《码农翻身》 By 刘欣 ，2019年9月
+7. 《Java多线程编程实战指南（核心篇）》 By 黄文海 ，2019年8月
+8. 《硅谷之谜》 By 吴军 ，2019年8月
+9. 《浪潮之巅第三版-下册》 By 吴军 ，2019年8月
+10. 👍《浪潮之巅第三版-上册》 By 吴军 ，2019年7月
+12. 👍《图解HTTP》 By [日] 上野宣 ，2019年5月
+12. 《Redis 深度历险：核心原理与应用实践——掘金小册》 By 老钱 ，2019年5月 
+13. 《Redis实战》 By Josiah L. Carlson ，2019年4月
+14. 《Java核心技术·卷 I（原书第10版）》By [美] 凯.S.霍斯特曼（Cay S. Horstmann），2019年4月
+15. 👍《Spring 微服务实战》 By [美]约翰·卡内尔（John Carnell），2019年3月
+16. 👍👍《黑客与画家 : 硅谷创业之父Paul Graham文集》 By [美] Paul Graham ，2019年2月
+17. 《Docker — 从入门到实践》 By Baohua Yang ，2019年2月
+18. 《Git 原理详解及实用指南——掘金小册》 By 扔物线 ， 2019年2月
+19. ❌《Spring Cloud微服务实战》 By 翟永超 ，2018年10月
+20. ❌《Spring Boot实战》 By [美]克雷格·沃斯 ，2018年10月
+21. 《在线》 By 王坚 ，2018年9月
+22. 《Java8 实战》 By 厄马(Raoul-Gabriel Urma) / 弗斯科(Mario Fusco) / 米克罗夫特(Alan Mycroft) ，2018年8月
 
 ## 文学
 
